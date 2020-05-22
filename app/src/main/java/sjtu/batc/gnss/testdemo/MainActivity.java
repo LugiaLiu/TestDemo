@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //add something 2020/5/22
+        //add something 2 2020/5/22
     }
 }
