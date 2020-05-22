@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // dzd write something on 2019/9/25 branch1
+        // dzd write something on 2020/5/22 branch1
     }
 }
